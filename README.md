@@ -26,7 +26,9 @@ Python
 -Demo:
 Nhận diện bằng hình ảnh:
 ![image](https://github.com/user-attachments/assets/c8cdde0c-1e2a-468c-b8ac-5099f51416fc)
+
 Nhận diện bằng webcam: 
+
 ![image](https://github.com/user-attachments/assets/458ba011-6017-4cc1-89df-918b1a37d279)
 ![image](https://github.com/user-attachments/assets/2b67684e-5657-47a7-82c7-d4ef030d69c4)
 
